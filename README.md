@@ -59,5 +59,5 @@ To analyze HR data and identify key factors behind employee attrition, helping o
 
 ## 👤 Author
 
-**yuarzumanyan-coder**  
+**Yashbha25**  
 Aspiring Data Analyst
