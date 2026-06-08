@@ -28,7 +28,7 @@ To analyze HR data and identify key factors behind employee attrition, helping o
 
 ## 🛠️ Tools Used
 
-- **SQL (PostgreSQL)** — data querying and analysis
+- **SQL (MySQL)** — data querying and analysis
 - **Microsoft Excel** — raw data storage and preprocessing
 - **Power BI** — interactive dashboard and visualizations
 
